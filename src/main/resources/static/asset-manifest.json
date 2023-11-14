@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3aa6e76d.css",
+    "main.js": "/static/js/main.3d3518be.js",
+    "static/js/787.994511a4.chunk.js": "/static/js/787.994511a4.chunk.js",
+    "static/media/어피치.gif": "/static/media/어피치.9fa377fdd7b88499ff0c.gif",
+    "index.html": "/index.html",
+    "main.3aa6e76d.css.map": "/static/css/main.3aa6e76d.css.map",
+    "main.3d3518be.js.map": "/static/js/main.3d3518be.js.map",
+    "787.994511a4.chunk.js.map": "/static/js/787.994511a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa6e76d.css",
+    "static/js/main.3d3518be.js"
+  ]
+}
